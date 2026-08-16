@@ -3,7 +3,7 @@
 <td width="50%" valign="top">
 
 <h2>EDUCATION</h2>
-<b>2027</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>INGENIERÍA EN TECNOLOGÍAS DE LA INFORMACIÓN E INNOVACIÓN DIGITAL</b><br>
+<b>2027</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>INGENIERÍA EN TECNOLOGÍAS DE LA INFORMACIÓN E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INNOVACIÓN DIGITAL</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad Politécnica de Pachuca<br><br>
 
 <b>2026</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>TSU EN DESARROLLO DE SOFTWARE MULTIPLATAFORMA</b><br>
@@ -12,17 +12,15 @@
 <b>2024</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>TÉCNICO EN PROGRAMACIÓN</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CBTIS No. 222<br><br>
 
-<h2>LANGUAGES</h2>
-ESPAÑOL&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◼ (Nativo)<br>
-INGLÉS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◻ (B2)<br><br>
+<h2>CERTIFICATIONS</h2>
+<b>2026</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>DevOps & Cloud Computing</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IBM (Coursera)<br><br>
 
-<h2>EXPERTISE</h2>
-<ul>
-<li>Clean Architecture</li>
-<li>Cloud Computing</li>
-<li>Visión Artificial</li>
-<li>DevOps (CI/CD)</li>
-</ul>
+<b>2026</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>Huawei ICT Competition</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cloud Track - Preliminary Stage<br><br>
+
+<b>2025</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>Scrum Fundamentals Certified (SFC)</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCRUMstudy<br><br>
 
 </td>
 <td width="50%" valign="top">
@@ -36,17 +34,23 @@ INGLÉS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◻ (B2)<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Soporte Técnico e Infraestructura</i><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagnóstico preventivo | Red LAN<br><br>
 
-<b>2026</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Vision-Rover-Control</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Proyecto de Ingeniería</i><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python | OpenCV | ESP32 | Sockets UDP | C++<br><br>
+<h2>LANGUAGES</h2>
+ESPAÑOL&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◼ (Nativo)<br>
+INGLÉS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◻ (B2)<br><br>
 
 <h2>SKILLS</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,python,ts,js,react&perline=5" /><br><br>
-<img src="https://skillicons.dev/icons?i=cpp,dart,flutter,postgres,mysql&perline=5" /><br><br>
-<img src="https://skillicons.dev/icons?i=firebase,git,docker,nginx,nodejs&perline=5" />
+<img src="https://skillicons.dev/icons?i=aws,python,ts,js,react&perline=5" /><br><br>
+<img src="https://skillicons.dev/icons?i=cpp,flutter,postgres,mysql,firebase&perline=5" />
 </div>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monngh&show_icons=true&hide_border=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monngh&layout=compact&hide_border=true&theme=tokyonight" height="150" alt="Top Languages" />
+</div>
