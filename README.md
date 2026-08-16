@@ -1,7 +1,3 @@
-<h1 align="center">GAEL HERNÁNDEZ MONROY</h1>
-<h3 align="center">Ingeniería y Desarrollo de Software Full Stack</h3>
-<br>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
