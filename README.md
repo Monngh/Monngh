@@ -1,69 +1,56 @@
+<h1 align="center">GAEL HERNÁNDEZ MONROY</h1>
+<h3 align="center">Ingeniería y Desarrollo de Software Full Stack</h3>
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h2>EDUCATION</h2>
+<b>2027</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>INGENIERÍA EN TECNOLOGÍAS DE LA INFORMACIÓN E INNOVACIÓN DIGITAL</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad Politécnica de Pachuca<br><br>
+
+<b>2026</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>TSU EN DESARROLLO DE SOFTWARE MULTIPLATAFORMA</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad Politécnica de Pachuca<br><br>
+
+<b>2024</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>TÉCNICO EN PROGRAMACIÓN</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CBTIS No. 222<br><br>
+
+<h2>LANGUAGES</h2>
+ESPAÑOL&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◼ (Nativo)<br>
+INGLÉS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◻ (B2)<br><br>
+
+<h2>EXPERTISE</h2>
+<ul>
+<li>Clean Architecture</li>
+<li>Cloud Computing</li>
+<li>Visión Artificial</li>
+<li>DevOps (CI/CD)</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h2>EXPERIENCE</h2>
+<b>2026-Hoy</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>FMB Solutions</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Desarrollador Full Stack</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arquitectura MVC | Express | TypeScript | Nginx<br><br>
+
+<b>2023-2024</b>&nbsp;&nbsp;&nbsp;<b>CBTIS No. 222</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Soporte Técnico e Infraestructura</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diagnóstico preventivo | Red LAN<br><br>
+
+<b>2026</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Vision-Rover-Control</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Proyecto de Ingeniería</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python | OpenCV | ESP32 | Sockets UDP | C++<br><br>
+
+<h2>SKILLS</h2>
 <div align="center">
-
-  <div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=33E9FF&center=true&vCenter=true&width=850&lines=Hola%2C+soy+un+Desarrollador+Full+Stack;Innovaci%C3%B3n+Digital+%26+Arquitectura;Construyendo+el+Futuro+del+Software;Bienvenido+a+mi+hub+de+c%C3%B3digo" alt="Typing SVG" />
-  </a>
-
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=A9A9A9&background=00000000&center=true&vCenter=true&width=435&lines=class+Developer+%7B;++++user+%3D+'Tu+Nombre'%3B;++++role+%3D+'Ingeniero+de+Software'%3B;++++goal+%3D+'Dominar+el+mundo+digital'%3B;%7D" />
-
+<img src="https://skillicons.dev/icons?i=kotlin,python,ts,js,react&perline=5" /><br><br>
+<img src="https://skillicons.dev/icons?i=cpp,dart,flutter,postgres,mysql&perline=5" /><br><br>
+<img src="https://skillicons.dev/icons?i=firebase,git,docker,nginx,nodejs&perline=5" />
 </div>
 
----
-
-<h3 align="center">⚡ El Arsenal Tecnológico ⚡</h3>
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,rust,go,swift,kotlin,php,ruby,scala&perline=12" />
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,svelte,nextjs,threejs,tailwind,bootstrap,sass,redux,webpack,vite&perline=12" />
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,graphql,apollo,mysql,postgres,mongodb,redis,firebase,supabase,cassandra,kafka,rabbitmq&perline=12" />
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,ansible,terraform,jenkins,githubactions,gitlab,linux,bash,nginx,vercel,netlify,heroku&perline=12" />
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,pandas,matlab,r,anaconda&perline=12" />
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,blender,unity,unreal,arduino,raspberrypi,vim,vscode,idea&perline=12" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=33E9FF&text_color=ffffff&icon_color=33E9FF&count_private=true" alt="Github Stats" width="400" />
-      </td>
-      <td style="border: none; padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=donut&theme=transparent&hide_border=true&title_color=33E9FF&text_color=ffffff&text_bold=false" alt="Top Langs" width="400" />
-      </td>
-    </tr>
-  </table>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=es&theme=react&hide_border=true&bg_color=0D1117" alt="chart" />
-  </p>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<div align="center">
-   <i>"La mejor forma de predecir el futuro es implementarlo."</i>
-</div>
+</td>
+</tr>
+</table>
