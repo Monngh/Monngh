@@ -53,5 +53,5 @@ INGLÉS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◻ (B2)<br><br>
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Monngh&layout=compact&hide_border=true&theme=highcontrast" alt="Top Languages" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
 </div>
