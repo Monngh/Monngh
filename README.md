@@ -51,6 +51,6 @@ INGLÉS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◼◻ (B2)<br><br>
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Monngh&show_icons=true&hide_border=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Monngh&layout=compact&hide_border=true&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Monngh&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Monngh&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
